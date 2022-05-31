@@ -8,83 +8,83 @@ SastaReact.appendChild(downloadPDF)
 const LinkedListLOL = [
     {
         "title": "Biotechnology Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-BT-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-BT-CGPA-Sem4.txt"
     },
     {
         "title": "Computer Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-CS-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-CS-CGPA-Sem4.txt"
     },
     {
         "title": "Chemical Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-CH-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-CH-CGPA-Sem4.txt"
     },
     {
         "title": "Civil Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-CE-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-CE-CGPA-Sem4.txt"
     },
     {
         "title": "Electronics Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-EC-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-EC-CGPA-Sem4.txt"
     },
     {
         "title": "Electrical Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-EE-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-EE-CGPA-Sem4.txt"
     },
     {
         "title": "Mechanical Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-ME-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-ME-CGPA-Sem4.txt"
     },
     {
         "title": "Metallurgy Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-MM-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-MM-CGPA-Sem4.txt"
     },
     {
         "title": "DD Biotechnology Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-DD-BT-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-DD-BT-CGPA-Sem4.txt"
     },
     {
         "title": "INT Chemical Rankwise Results (CGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-INT-M.Sc.-CY-CGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-INT-M.Sc.-CY-CGPA-Sem4.txt"
     },
     {
         "title": "Biotechnology Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-BT-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-BT-SGPA-Sem4.txt"
     },
     {
         "title": "Computer Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-CS-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-CS-SGPA-Sem4.txt"
     },
     {
         "title": "Chemical Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-CH-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-CH-SGPA-Sem4.txt"
     },
     {
         "title": "Civil Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-CE-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-CE-SGPA-Sem4.txt"
     },
     {
         "title": "Electronics Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-EC-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-EC-SGPA-Sem4.txt"
     },
     {
         "title": "Electrical Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-EE-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-EE-SGPA-Sem4.txt"
     },
     {
         "title": "Mechanical Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-ME-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-ME-SGPA-Sem4.txt"
     },
     {
         "title": "Metallurgy Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-MM-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-MM-SGPA-Sem4.txt"
     },
     {
         "title": "DD Biotechnology Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-DD-BT-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-DD-BT-SGPA-Sem4.txt"
     },
     {
         "title": "INT Chemical Rankwise Results (SCGPA)",
-        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/blob/main/Ranked-INT-M.Sc.-CY-SGPA-Sem4.txt"
+        "url": "https://github.com/rishav-jha-mech/NITDGP-results-ranked-sem4/raw/main/Ranked-INT-M.Sc.-CY-SGPA-Sem4.txt"
     },
 ]
 
@@ -97,7 +97,7 @@ for (const key in LinkedListLOL) {
     }
 
     div.innerHTML=`
-        <a href="${LinkedListLOL[key]["url"]}" download="name.txt">${LinkedListLOL[key]["title"]}</a>
+        <a href="${LinkedListLOL[key]["url"]}" download>${LinkedListLOL[key]["title"]}</a>
     `
     SastaReact.appendChild(div)
 }
