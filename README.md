@@ -1,4 +1,4 @@
-# Results of NIT DGP SEM 3 Sorted and Ranked
+# Results of NIT DGP SEM 4 Sorted and Ranked
 
 Previous version of the app was quite manual, however this one is fully user automated.
 
